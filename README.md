@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Backroad App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was reminder for how to use components from React
+Link (https://backroad-apps-example.netlify.app)
 
 ## Available Scripts
 
