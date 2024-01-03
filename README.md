@@ -5,11 +5,11 @@ Link (https://backroad-apps-example.netlify.app)
 
 ## Available Scripts
 
-First thing first you must run.\
+First thing first you must run.
 
 ### `npm install`
 
-To run installation for this project.\
+To run installation for this project.
 
 In the project directory, you can run:
 
