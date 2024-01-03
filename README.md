@@ -1,6 +1,6 @@
 # Backroad App
 
-This project was reminder for how to use components from React
+This project was reminder for me how to use components from React.\
 Link (https://backroad-apps-example.netlify.app)
 
 ## Available Scripts
